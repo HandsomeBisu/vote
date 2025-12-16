@@ -1,0 +1,5 @@
+{
+  "name": "School Election Exit Poll",
+  "description": "An anonymous exit poll application for school president/vice-president elections with real-time dashboard and anti-tamper features.",
+  "requestFramePermissions": []
+}
